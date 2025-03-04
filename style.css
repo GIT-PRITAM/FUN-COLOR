@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+button {
+    color: antiquewhite;
+    background-color: rgb(216, 73, 73);
+    font-size: larger;
+
+}
+
+div {
+    height: 700px;
+    width: 500px;
+    border: 1px solid black;
+    margin: auto;
+}
